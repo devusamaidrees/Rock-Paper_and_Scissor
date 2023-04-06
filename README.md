@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors Game
 This is a simple command-line based rock, paper, scissors game built with JavaScript. The game prompts the user to input their choice (rock, paper, or scissors) and then randomly selects the CPU's choice. The game then compares the choices and determines the winner
 # How to Play
-**1. **Clone the repository or copy the code into a JavaScript file on your local machine.
+**1.** Clone the repository or copy the code into a JavaScript file on your local machine.
 **2. **Install the prompt-sync package using npm install prompt-sync.
 **3. **Run the game using node <filename>.js command in your terminal or command prompt.
 **4. **Enter your choice (rock, paper, or scissors) when prompted and press enter.
